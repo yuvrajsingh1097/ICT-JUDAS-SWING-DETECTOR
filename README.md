@@ -248,7 +248,4 @@ ict-judas-swing-detector/
 - pandas · numpy · matplotlib
 
 ---
-
-## 📄 License
-
-MIT License
+MAINLY BUILT FOR TRADING IN NEW YORK  ZONE WITH MARKING ASIAN / LONDON HIGHS AND LOWS
